@@ -1,0 +1,20 @@
+{
+  "name": "vue-graph-visual",
+  "version": "1.0.0",
+  "description": "A vue-plugin for realtime visual graph analyses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenrySchwerdtner/vue-graph-visual.git"
+  },
+  "author": "Henry Schwerdtner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HenrySchwerdtner/vue-graph-visual/issues"
+  },
+  "homepage": "https://github.com/HenrySchwerdtner/vue-graph-visual#readme",
+  "dependencies": {}
+}
